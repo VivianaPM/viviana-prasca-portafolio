@@ -10,11 +10,8 @@ Estoy a nada de graduarme como Ingeniera de Sistemas **(Diciembre de 2026)** y m
 
 ¡Aquí te dejo lo mejor de mí! Esta es una selección de mis proyectos más top, organizados por área para que encuentres justo lo que buscas.
 
-- **[DL-VisNIR-QualityClassifier](proyecto-QualityClassifier/QualityClassifier.md)**: Clasificación de calidad agrícola mediante espectroscopía Vis-NIR y redes neuronales profundas para manzanas y champiñones. Este proyecto implementa y evalúa múltiples arquitecturas de redes neuronales para clasificar calidad de productos agrícolas basados en espectros Vis-NIR.
-- **[Demeter](proyecto-demeter/demeter.md)**: Aplicación móvil desarrollada con Python y su framework para el desarrollo móvil, Kivy. Permite al usuario
-  realizar un seguimiento del estado del suelo e informa si este es conveniente para un cultivo determinado.
-  Durante el desarrollo de este aplicativo mis responsabilidades fueron: implementar el frontend en kivy y la
-  construcción de un sistema simple de adquisición de datos con microcontrolador y sensores.
+- **[DL-VisNIR-QualityClassifier](proyecto-QualityClassifier/QualityClassifier.md)**: Proyecto que aplica espectroscopía Vis-NIR y redes neuronales profundas para clasificar la calidad de manzanas y champiñones de forma objetiva y reproducible.
+- **[Demeter](proyecto-demeter/demeter.md)**: Aplicación móvil desarrollada con Python y Kivy para monitorear el estado del suelo y aportar información útil sobre el cultivo. Durante su desarrollo, participé en la implementación del frontend en Kivy y en la creación de un sistema simple de adquisición de datos con microcontrolador y sensores.
 
 ## Contacto
 
