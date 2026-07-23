@@ -12,14 +12,7 @@ La calidad de productos agrícolas como manzanas y champiñones tradicionalmente
 
 - **Lenguaje**: Python
 - **Framework**: TensorFlow
-- **Librerías**:
-  - torch
-  - torchvision
-  - pandas
-  - numpy
-  - matplotlib
-  - scikit-learn
-  - seaborn
+- **Librerías**: Torch, Torchvision, Pandas, Numpy, Matplotlib, Scikit-learn y Seaborn
 
 ## Enfoque Técnico
 
@@ -72,7 +65,6 @@ Se buscaba crear multiples estructuras de modelos predictivpos pasra cada una de
 
 - **Épocas**: Manzanas: 100 epocas / Champiñones: 100 epocas
 - **Precisión alcanzada**: Manzanas: 90% / Champiñones: 73.2%
-- **Tiempo de entrenamiento**: [Duración aproximada]
 
 ## Cómo Ejecutar el Proyecto
 
