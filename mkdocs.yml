@@ -7,7 +7,7 @@ theme:
 nav:
   - Inicio: index.md
   - Proyecto de IA:
-      - proyecto-ia/index.md
+      - proyecto-QualityClassifier/QualityClassifier.md
   - Proyecto Demeter:
       - proyecto-demeter/demeter.md
   - Proyecto de API:

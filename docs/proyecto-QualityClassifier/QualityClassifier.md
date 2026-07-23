@@ -1,8 +1,8 @@
 # DL-VisNIR-QualityClassifier: Clasificación de Calidad Agrícola mediante Espectroscopía Vis-NIR
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositorio-blue?logo=github)](https://github.com/VivianaPM/DL-VisNIR-QualityClassifier)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-Manizana-orange?logo=googlecolab)](link-colab-manzana)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-Champiñón-orange?logo=googlecolab)](link-colab-champinon)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Manizana-orange?logo=googlecolab)](https://colab.research.google.com/drive/1-2rz1YxTOCJ78_Fn9vMA-BMM0cBTWqvn?usp=sharing)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Champiñón-orange?logo=googlecolab)](https://colab.research.google.com/drive/1qNVkVKgUrr9MdItLzjC7wglg0bSVBQXR?usp=sharing#scrollTo=09454439)
 
 ## El Problema / Objetivo
 
