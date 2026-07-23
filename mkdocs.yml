@@ -1,0 +1,14 @@
+# mkdocs.yml
+site_name: Mi Portafolio Profesional
+site_author: Viviana Prasca Méndez
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Proyecto de IA:
+      - proyecto-ia/index.md
+  - Proyecto Demeter:
+      - proyecto-demeter/demeter.md
+  - Proyecto de API:
+      - proyecto-hubentory/hubentory.md
