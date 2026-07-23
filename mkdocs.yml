@@ -3,6 +3,8 @@ site_name: Mi Portafolio Profesional
 site_author: Viviana Prasca Méndez
 theme:
   name: material
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Inicio: index.md
