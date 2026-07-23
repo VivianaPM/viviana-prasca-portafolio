@@ -6,10 +6,17 @@
   color: #2f4f4f;
   border-bottom: 2px solid #e0e0e0;
   padding-bottom: 0.35rem;
+  text-transform: none;
+}
+
+.md-content h2::first-letter,
+.md-content h3::first-letter {
+  text-transform: uppercase;
 }
 
 .md-content h3 {
   color: #1f4e79;
+  text-transform: none;
 }
 
 .md-content pre {
