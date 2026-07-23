@@ -8,7 +8,7 @@ extra_css:
 
 nav:
   - Inicio: index.md
-  - Proyecto de Clasificación de Calidad:
+  - Proyecto de ANN (IA):
       - proyecto-QualityClassifier/QualityClassifier.md
-  - Proyecto Demeter:
+  - Proyecto mobile:
       - proyecto-demeter/demeter.md
