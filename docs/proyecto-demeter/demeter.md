@@ -60,28 +60,28 @@ A continuación, se muestran las principales pantallas de la aplicación:
 A continuación se presentan los mockups de alta fidelidad del producto final:
 
 **Figura 1: Inicio de Sesión**  
-<img src="../assets/images/mockup-flujo-1.png" alt="Inicio de sesión" width="500" />
+![Inicio de sesión](../assets/images/mockup-flujo-1.png)
 
 **Figura 2: Pantalla de Inicio**  
-<img src="../assets/images/mockup-flujo-2.png" alt="Pantalla de inicio" width="500" />
+![Pantalla de inicio](../assets/images/mockup-flujo-2.png)
 
 **Figura 3: Alertas**  
-<img src="../assets/images/mockup-flujo-3.png" alt="Alertas" width="500" />
+![Alertas](../assets/images/mockup-flujo-3.png)
 
 **Figura 4: Detalles de Alertas**  
-<img src="../assets/images/mockup-flujo-4.png" alt="Detalles de alertas" width="500" />
+![Detalles de alertas](../assets/images/mockup-flujo-4.png)
 
 **Figura 5: Análisis de Condiciones del Sistema**  
-<img src="../assets/images/mockup-flujo-5.png" alt="Análisis de condiciones" width="500" />
+![Análisis de condiciones](../assets/images/mockup-flujo-5.png)
 
 **Figura 6: Estadísticas**  
-<img src="../assets/images/mockup-flujo-6.png" alt="Estadísticas" width="500" />
+![Estadísticas](../assets/images/mockup-flujo-6.png)
 
 **Figura 7: Consulta de Cultivos Óptimos**  
-<img src="../assets/images/mockup-flujo-7.png" alt="Cultivos óptimos" width="500" />
+![Cultivos óptimos](../assets/images/mockup-flujo-7.png)
 
 **Figura 8: Perfil de Usuario y Ajustes**  
-<img src="../assets/images/mockup-flujo-8.png" alt="Perfil de usuario" width="500" />
+![Perfil de usuario](../assets/images/mockup-flujo-8.png)
 
 ---
 
