@@ -99,7 +99,7 @@ _Video de presentación del proyecto como producto comercializable, creado para 
 [Enlace al video de funcionamiento](https://youtu.be/74DAexUKNQw)  
 _Demostración técnica del sensor en operación y la comunicación con la base de datos._
 
-## Cómo Ejecutar el Proyecto
+## ¿Cómo ejecutar el proyecto?
 
 ```bash
 # Clonar el repositorio

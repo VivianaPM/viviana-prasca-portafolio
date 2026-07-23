@@ -4,7 +4,7 @@
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Manizana-orange?logo=googlecolab)](https://colab.research.google.com/drive/1-2rz1YxTOCJ78_Fn9vMA-BMM0cBTWqvn?usp=sharing)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Champiñón-orange?logo=googlecolab)](https://colab.research.google.com/drive/1qNVkVKgUrr9MdItLzjC7wglg0bSVBQXR?usp=sharing#scrollTo=09454439)
 
-## El Problema / Objetivo
+## Problema / Objetivo
 
 La calidad de productos agrícolas como manzanas y champiñones tradicionalmente se evalúa mediante inspección visual manual, lo que introduce subjetividad, variabilidad y altos costos operativos. Este proyecto propone una solución automatizada usando espectroscopía Vis-NIR (Visible - Near Infrared) combinada con redes neuronales profundas para clasificar calidad de manera objetiva y reproducible.
 
@@ -61,12 +61,12 @@ Tras la implementación del modelo soportado en redes neuronales para la clasifi
 
 ### Entrenamiento
 
-Se buscaba crear multiples estructuras de modelos predictivpos pasra cada una de las muestras de estudio. A continuacion se describen los datos para el entrenamiento y resultado para los dos mejores modelos construidos.
+Se buscaba crear multiples estructuras de modelos predictivos para cada una de las muestras de estudio. A continuacion se describen los datos para el entrenamiento y resultado para los dos mejores modelos construidos.
 
-- **Épocas**: Manzanas: 100 epocas / Champiñones: 100 epocas
+- **Épocas**: Manzanas: 100 pocas / Champiñones: 100 epocas
 - **Precisión alcanzada**: Manzanas: 90% / Champiñones: 73.2%
 
-## Cómo Ejecutar el Proyecto
+## ¿Cómo ejecutar el proyecto?
 
 Acceder a los notebooks de Google Colab:
 
