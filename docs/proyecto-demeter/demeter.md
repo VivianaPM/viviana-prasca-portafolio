@@ -4,18 +4,18 @@
 [![Video Promocional](https://img.shields.io/badge/Video-Promocional-red?logo=youtube)](https://youtu.be/Uy0bKpBZ2j0)
 [![Video Funcionamiento](https://img.shields.io/badge/Video-Funcionamiento-red?logo=youtube)](https://youtu.be/74DAexUKNQw)
 
-## El Problema / Objetivo
+## Problema / Objetivo
 
 Demeter es una aplicación móvil diseñada para el monitoreo y análisis de condiciones agrícolas, dirigida a pequeños y medianos agricultores que buscan optimizar sus cultivos mediante tecnología accesible. La app resuelve la necesidad de contar con información en tiempo real sobre las condiciones del suelo y ambiente, permitiendo tomar decisiones informadas sobre qué cultivos sembrar y cuándo realizar actividades de mantenimiento, todo desde un dispositivo móvil.
 
-## Stack Tecnológico
+## Stack tecnológico
 
 - **Framework**: Kivy (Python)
 - **Backend**: Python y MicroPython
 - **Base de Datos**: Heroku Postgres
 - **IDE**: Thonny IDE y Arduino IDE
 
-## Enfoque Técnico & UX
+## Enfoque técnico & UX
 
 ### Arquitectura de la App
 
@@ -32,7 +32,7 @@ Se implementó un enfoque de arquitectura limpia que separa claramente las capas
 
 Esta arquitectura facilita las pruebas, la lectura y extensión del código, permitiendo reemplazar fácilmente la capa de datos por un mock o un servicio diferente para demos o pruebas.
 
-### Consumo de Datos
+### Consumo de datos
 
 La aplicación utiliza **Heroku Postgres** como sistema de gestión de base de datos, una solución robusta, escalable y segura que ofrece una de las bases de datos PostgreSQL (Presta, 2021).
 
@@ -43,7 +43,7 @@ La aplicación utiliza **Heroku Postgres** como sistema de gestión de base de d
 3. Los datos son previamente limpiados antes de su envío
 4. Se almacenan en Heroku Postgres para su posterior consulta y análisis
 
-### Decisiones de Diseño
+### Decisiones de diseño
 
 El diseño de la interfaz prioriza la usabilidad y claridad de información para agricultores, con un enfoque en:
 
@@ -55,7 +55,7 @@ A continuación, se muestran las principales pantallas de la aplicación:
 
 ---
 
-### Pantallas de la Aplicación
+### Pantallas de la aplicación
 
 A continuación se presentan los mockups de alta fidelidad del producto final:
 
@@ -87,14 +87,14 @@ A continuación se presentan los mockups de alta fidelidad del producto final:
 
 > **📌 Nota sobre la ejecución:** La aplicación ha sido desarrollada para conectarse a una base de datos gratuita con tiempo limitado. Al ejecutar el código localmente, se visualizará la primera pantalla, pero debido a las restricciones del servicio de base de datos, no será posible avanzar a las demás vistas. Por esta razón, se incluyen los mockups de todas las pantallas y los videos demostrativos que muestran el funcionamiento completo de la aplicación.
 
-## Videos Demostrativos
+## Videos demostrativos
 
-### Video Promocional
+### Video promocional
 
 [Enlace al video promocional](https://www.youtube.com/watch?v=Uy0bKpBZ2j0)  
 _Video de presentación del proyecto como producto comercializable, creado para cumplir con el requisito académico de presentar Demeter como una solución lista para el mercado._
 
-### Video de Funcionamiento del Sensor
+### Video de funcionamiento del sensor
 
 [Enlace al video de funcionamiento](https://youtu.be/74DAexUKNQw)  
 _Demostración técnica del sensor en operación y la comunicación con la base de datos._

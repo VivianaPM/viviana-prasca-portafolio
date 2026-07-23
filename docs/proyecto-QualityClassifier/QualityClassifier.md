@@ -8,15 +8,15 @@
 
 La calidad de productos agrícolas como manzanas y champiñones tradicionalmente se evalúa mediante inspección visual manual, lo que introduce subjetividad, variabilidad y altos costos operativos. Este proyecto propone una solución automatizada usando espectroscopía Vis-NIR (Visible - Near Infrared) combinada con redes neuronales profundas para clasificar calidad de manera objetiva y reproducible.
 
-## Stack Tecnológico
+## Stack tecnológico
 
 - **Lenguaje**: Python
 - **Framework**: TensorFlow
 - **Librerías**: Torch, Torchvision, Pandas, Numpy, Matplotlib, Scikit-learn y Seaborn
 
-## Enfoque Técnico
+## Enfoque técnico
 
-### Preparación de Datos
+### Preparación de datos
 
 Este proyecto es de índole restringida a un dataset de estudio gratuito **SpectroFood**.
 
@@ -37,7 +37,7 @@ Este proyecto es de índole restringida a un dataset de estudio gratuito **Spect
 
 > Malounas, I., Vierbergen, W., Kutluk, S., Zude-Sasse, M., Yang, K., Zhao, M., Argyropoulos, D., Van Beek, J., Ampe, E., & Fountas, S. (2024). SpectroFood dataset: A comprehensive fruit and vegetable hyperspectral meta-dataset for dry matter estimation. Data in Brief, 52, 110040. https://doi.org/10.1016/j.dib.2024.110040
 
-### Arquitectura del Modelo
+### Arquitectura del modelo
 
 Tras la implementación del modelo soportado en redes neuronales para la clasificación de frutas y hortalizas mediante espectroscopia VIS-NIR, se evidenció el cumplimiento de los objetivos propuestos.
 
@@ -63,7 +63,7 @@ Tras la implementación del modelo soportado en redes neuronales para la clasifi
 
 Se buscaba crear multiples estructuras de modelos predictivos para cada una de las muestras de estudio. A continuacion se describen los datos para el entrenamiento y resultado para los dos mejores modelos construidos.
 
-- **Épocas**: Manzanas: 100 pocas / Champiñones: 100 epocas
+- **Épocas**: Manzanas: 100 épocas / Champiñones: 100 épocas
 - **Precisión alcanzada**: Manzanas: 90% / Champiñones: 73.2%
 
 ## ¿Cómo ejecutar el proyecto?
